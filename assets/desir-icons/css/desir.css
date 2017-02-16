@@ -1,0 +1,75 @@
+@font-face {
+  font-family: 'desir';
+  src:  url('../../fonts/desir.eot?bnidie');
+  src:  url('../../fonts/desir.eot?bnidie#iefix') format('embedded-opentype'),
+    url('../../fonts/desir.ttf?bnidie') format('truetype'),
+    url('../../fonts/desir.woff?bnidie') format('woff'),
+    url('../../fonts/desir.svg?bnidie#desir') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'desir' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icona_pdf_accesa .path1:before {
+  content: "\e900";
+  color: rgb(226, 0, 0);
+}
+.icon-icona_pdf_accesa .path2:before {
+  content: "\e901";
+  margin-left: -1em;
+  color: rgb(226, 0, 0);
+}
+.icon-icona_pdf_accesa .path3:before {
+  content: "\e902";
+  margin-left: -1em;
+  color: rgb(226, 0, 0);
+}
+.icon-icona_pdf_accesa .path4:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(226, 0, 0);
+}
+.icon-icona_pdf_accesa .path5:before {
+  content: "\e904";
+  margin-left: -1em;
+  color: rgb(226, 0, 0);
+}
+.icon-icona_pdf_accesa .path6:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(226, 0, 0);
+}
+.icon-icona_pdf_accesa .path7:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-icon_facebook:before {
+  content: "\e907";
+}
+.icon-Icon_chisiamo:before {
+  content: "\e908";
+}
+.icon-Icon_100Capra:before {
+  content: "\e909";
+}
+.icon-Icon_ricette:before {
+  content: "\e90a";
+}
+.icon-NumeroVerde:before {
+  content: "\e90b";
+}

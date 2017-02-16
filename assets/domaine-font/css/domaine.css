@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Domaine';
+  src: url('../../fonts/DomaineSansDisplay-MediumItalic.eot');
+  src: url('../../fonts/DomaineSansDisplay-MediumItalic.woff') format('woff'),
+       url('../../fonts/DomaineSansDisplay-MediumItalic.ttf') format('truetype'),
+       url('../../fonts/DomaineSansDisplay-MediumItalic.svg#DomaineSansDisplay-MediumItalic') format('svg'),
+       url('../../fonts/DomaineSansDisplay-MediumItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
